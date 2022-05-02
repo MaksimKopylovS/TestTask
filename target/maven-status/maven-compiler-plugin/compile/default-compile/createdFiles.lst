@@ -1,0 +1,8 @@
+com\gridnine\testing\Segment.class
+com\gridnine\testing\Flight.class
+com\gridnine\testing\FilterArrivalDateBeforeDepartureDate.class
+com\gridnine\testing\Main.class
+com\gridnine\testing\FilterFlight.class
+com\gridnine\testing\FilterFlightUpToTheCurrentPointInTime.class
+com\gridnine\testing\FlightBuilder.class
+com\gridnine\testing\FilterTimeSpentOnEarthExceedsTwoHours.class

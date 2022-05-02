@@ -1,0 +1,3 @@
+com\gridnine\testing\FilterFlightUpToTheCurrentPointInTimeTest.class
+com\gridnine\testing\FilterArrivalDateBeforeDepartureDateTest.class
+com\gridnine\testing\FilterTimeSpentOnEarthExceedsTwoHoursTest.class
